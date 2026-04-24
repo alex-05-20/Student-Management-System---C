@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1755785484 source:d:\codes\alex project\matiere.c
+	<stdio.h>
+	"matiere.h"
+	"CDS.h"
+
+1741467830 d:\codes\alex project\matiere.h
+
+1755785484 source:d:\codes\alex project\note.c
+	<stdio.h>
+	"note.h"
+	"CDS.h"
+
+1743063487 d:\codes\alex project\note.h
+
+1755785484 source:d:\codes\alex project\etudiant.c
+	"etudiant.h"
+	<stdio.h>
+	"CDS.h"
+
+1741468361 d:\codes\alex project\etudiant.h
+
+1755786552 source:d:\codes\alex project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"etudiant.h"
+	"note.h"
+	"matiere.h"
+	"mesfonctions.h"
+	"code.h"
+
+1755785484 source:d:\codes\alex project\mesfonctions.c
+	<stdio.h>
+	<string.h>
+	"etudiant.h"
+	"note.h"
+	"matiere.h"
+	"mesfonctions.h"
+	"code.h"
+
+1743021269 d:\codes\alex project\mesfonctions.h
+
+1755785484 source:d:\codes\alex project\cds.c
+	<stdio.h>
+	<string.h>
+	"CDS.h"
+	<stdbool.h>
+	"etudiant.h"
+	"note.h"
+	"matiere.h"
+
+1743076443 d:\codes\alex project\cds.h
+
+1742705296 d:\codes\alex project\test.h
+
+1742705296 source:d:\codes\alex project\test.c
+	<stdio.h>
+	<stdlib.h>
+
+1755785439 source:d:\codes\alex project\code.c
+	"code.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1743062221 d:\codes\alex project\code.h
+
